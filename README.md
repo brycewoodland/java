@@ -8,7 +8,7 @@ Starting in **2024**, I’ve set a personal goal to get better with Java, buildi
 
 ## Current Activity
 
-- **Building a Markdown to HTML Converter (in Java)**
+- **Basic CLI Calculator**
 
 ---
 
