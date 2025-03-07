@@ -2,6 +2,14 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Java!");
+        String str = "Hello";
+        String output = reverseString(str);
+        System.out.print(output);
+    }
+
+    public static String reverseString(String str) {
+        StringBuilder reversed = new StringBuilder(str);
+        return reversed.reverse().toString();
     }
 }
+
