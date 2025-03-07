@@ -27,10 +27,10 @@ Starting in **2024**, I’ve set a personal goal to get better with Java, buildi
 
 Starting simple with practical examples and gradually building more complex applications.
 
-### - [x] 1. Basic CLI Calculator
+### - [ x ] 1. Basic CLI Calculator
 Implement a simple command-line calculator for basic arithmetic operations.
 
-### - [x] 2. Reverse String
+### - [ x ] 2. Reverse String
 Write a program that takes a string input and reverses it.
 
 ### 3. Palindrome Checker
