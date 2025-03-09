@@ -109,7 +109,7 @@ Kotlin is fully interoperable with Java, meaning that Kotlin can run on the Java
 
 ## Recurring Problems and Patterns to Solve Them
 
-### 1. Programming exercise: Squared
+- [ x ] Programming exercise: Squared
 ### 2. Programming exercise: Square root of sum
 ### 3. Quiz: Executing conditional statements
 ### 4. Programming exercise: Absolute Value
