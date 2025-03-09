@@ -126,41 +126,41 @@ Find a Java-based open-source project and start contributing. This is a great wa
 
 🟢 1. Align Small Projects with DSA Concepts
 
-Palindrome Checker → Use a Stack (LIFO approach).
+-- Palindrome Checker → Use a Stack (LIFO approach).
 
-Fibonacci Generator → Implement it recursively and iteratively.
+-- Fibonacci Generator → Implement it recursively and iteratively.
 
-Prime Number Checker → Use Sieve of Eratosthenes for an efficient approach.
+-- Prime Number Checker → Use Sieve of Eratosthenes for an efficient approach.
 
-To-Do List App → Store tasks in a Priority Queue.
+-- To-Do List App → Store tasks in a Priority Queue.
 
-File Reader/Writer → Work with HashMaps for frequency analysis (word count, etc.).
+-- File Reader/Writer → Work with HashMaps for frequency analysis (word count, etc.).
 
-Basic HTTP Server → Use Multi-threading to handle multiple requests.
+-- Basic HTTP Server → Use Multi-threading to handle multiple requests.
 
 🟡 2. Organize Your Learning in Phases
 
-Phase 1 – Java Syntax + Core DSA
+ #### **1 – Java Syntax + Core DSA**
 
-Solve LeetCode Easy problems (Arrays, Strings, HashMaps).
+-- Solve LeetCode Easy problems (Arrays, Strings, HashMaps).
 
-Implement sorting algorithms (Quick Sort, Merge Sort).
+-- Implement sorting algorithms (Quick Sort, Merge Sort).
 
-Write JUnit tests for your projects.
+-- Write JUnit tests for your projects.
 
-Phase 2 – Intermediate DSA + Java Collections
+#### **Phase 2 – Intermediate DSA + Java Collections**
 
-Solve LeetCode Medium problems (Linked Lists, Stacks, Queues, Trees).
+-- Solve LeetCode Medium problems (Linked Lists, Stacks, Queues, Trees).
 
-Learn and apply Recursion & Dynamic Programming.
+-- Learn and apply Recursion & Dynamic Programming.
 
-Phase 3 – Advanced DSA + Large Projects
+#### **Phase 3 – Advanced DSA + Large Projects**
 
-Implement a chat application using Java Sockets.
+-- Implement a chat application using Java Sockets.
 
-Solve LeetCode Hard problems (Graphs, DP, Tries).
+-- Solve LeetCode Hard problems (Graphs, DP, Tries).
 
-Work on a Spring Boot web service.
+-- Work on a Spring Boot web service.
 
 🟠 3. Track Progress with GitHub
 
