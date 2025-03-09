@@ -164,6 +164,22 @@ Find a Java-based open-source project and start contributing. This is a great wa
 
 🟠 3. Track Progress with GitHub
 
+## Kotlin Learning Goals
+
+Since Kotlin is closely related to Java and fully interoperable with it, I've decided to explore Kotlin as well. Here are some initial goals:
+- Understand Kotlin Syntax - Learn the basics of Kotlin, including variables, functions, and control flow.
+- Work with Null Safety - Explore Kotlin's null safety features to avoid NullPointerException.
+- Explore Kotlin Coroutines - Understand how to use coroutines for asynchronous programming.
+- Interoperability with Java - Practice calling Java code from Kotlin and vice versa.
+- Android Development - Experiment with building a simple Android app using Kotlin.
+- Kotlin Standard Library - Learn about Kotlin's built-in functions and utilities.
+- Build a Small Kotlin Project - Implement a simple application, such as a task manager or a unit converter, in Kotlin.
+
+By integrating Kotlin into my Java learning journey, I can expand my versatility and improve my skills in modern JVM-based development.
+
+### Is Kotlin related to Java?
+Kotlin is fully interoperable with Java, meaning that Kotlin can run on the Java Virtual Machine (JVM) and use Java libraries. Kotlin improves upon Java by offering more concise syntax and additional features, such as null safety and coroutines for asynchronous programming.
+
 Organize your repository structure as follows:
 
 📂 Java-Learning-Journey/
