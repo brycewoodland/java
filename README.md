@@ -6,7 +6,7 @@ Starting in 2024, I’ve set a personal goal to get better with Java, building b
 
 ## Current Activity
 
-### Palindrome Checker
+### Absolute Value
 
 ### Useful Links
 - [Java Documentation](https://docs.oracle.com/en/java/)
@@ -21,7 +21,7 @@ Starting in 2024, I’ve set a personal goal to get better with Java, building b
 ## Recurring Problems and Patterns to Solve Them
 
 - [x] Programming exercise: Squared
-### 2. Programming exercise: Square root of sum
+- [x] Programming exercise: Square root of sum
 ### 3. Programming exercise: Absolute Value
 ### 4. Programming exercise: Comparing Numbers
 
