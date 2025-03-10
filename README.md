@@ -16,6 +16,8 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [JUnit for Testing](https://junit.org/)
 - [Java Design Patterns](https://refactoring.guru/design-patterns)
 
+- [Java Course](https://java-programming.mooc.fi/)
+
 # Learning Modules
 
 ## Recurring Problems and Patterns to Solve Them
