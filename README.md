@@ -2,7 +2,7 @@
 
 This repository documents my learning path, experiences, and progress as I dive deeper into mastering Java. I have prior experience with languages like Python, JavaScript, C#, and TypeScript but now I’m focusing on Java. You have to start somewhere.
 
-Starting in 2024, I’ve set a personal goal to get better with Java, building both small and larger projects.
+Starting in 2025, I’ve set a personal goal to get better with Java, building both small and larger projects.
 
 ## Current Activity
 
