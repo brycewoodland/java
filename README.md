@@ -2,11 +2,11 @@
 
 This repository documents my learning path, experiences, and progress as I dive deeper into mastering Java. I have prior experience with languages like Python, JavaScript, C#, and TypeScript but now I’m focusing on Java. You have to start somewhere.
 
-Starting in 2024, I’ve set a personal goal to get better with Java, building both small and larger projects.
+Starting in 2025, I’ve set a personal goal to get better with Java, building both small and larger projects.
 
 ## Current Activity
 
-### Palindrome Checker
+### Absolute Value
 
 ### Useful Links
 - [Java Documentation](https://docs.oracle.com/en/java/)
@@ -16,12 +16,14 @@ Starting in 2024, I’ve set a personal goal to get better with Java, building b
 - [JUnit for Testing](https://junit.org/)
 - [Java Design Patterns](https://refactoring.guru/design-patterns)
 
+- [Java Course](https://java-programming.mooc.fi/)
+
 # Learning Modules
 
 ## Recurring Problems and Patterns to Solve Them
 
 - [x] Programming exercise: Squared
-### 2. Programming exercise: Square root of sum
+- [x] Programming exercise: Square root of sum
 ### 3. Programming exercise: Absolute Value
 ### 4. Programming exercise: Comparing Numbers
 
