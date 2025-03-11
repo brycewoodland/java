@@ -6,7 +6,7 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 ## Current Activity
 
-### Programming exercise: Carry on?
+### Programming exercise: Number of Numbers
 
 ### Useful Links
 - [Java Documentation](https://docs.oracle.com/en/java/)
@@ -29,9 +29,9 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 ## Repeating Functionality
 
-### 1. Programming exercise: Carry on?
-### 2. Programming exercise: Are we there yet?
-### 3. Programming exercise: Only positives
+- [x] Programming exercise: Carry on?
+- [x] Programming exercise: Are we there yet?
+- [x] Programming exercise: Only positives
 ### 4. Programming exercise: Number of Numbers
 ### 5. Programming exercise: Number of negative numbers
 ### 6. Programming exercise: Sum of Numbers
