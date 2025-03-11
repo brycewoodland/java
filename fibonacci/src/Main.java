@@ -22,7 +22,7 @@ public class Main {
         fibNumbers.add(a);
         fibNumbers.add(b);
 
-        while(a + b < limit) {
+        while(a + b <= limit) {
             int next = a + b;
             fibNumbers.add(next);
             a = b;
