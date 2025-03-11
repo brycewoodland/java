@@ -183,7 +183,7 @@ Create a program that reverses a string.
 - [x] Palindrome Checker
 Create a program that checks if a given string is a palindrome.
 
-### 4. Fibonacci Sequence Generator
+- [x] Fibonacci Sequence Generator
 Implement a function to generate Fibonacci numbers up to a given number of terms.
 
 ### 5. Prime Number Checker
