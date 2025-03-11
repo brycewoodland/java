@@ -6,7 +6,7 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 ## Current Activity
 
-### Programming exercise: Number of Numbers
+### Programming exercise: From where to where? (2 parts)
 
 ### Useful Links
 - [Java Documentation](https://docs.oracle.com/en/java/)
@@ -32,17 +32,13 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [x] Programming exercise: Carry on?
 - [x] Programming exercise: Are we there yet?
 - [x] Programming exercise: Only positives
-### 4. Programming exercise: Number of Numbers
-### 5. Programming exercise: Number of negative numbers
-### 6. Programming exercise: Sum of Numbers
-### 7. Programming exercise: Number and sum of numbers
-### 8. Programming exercise: Average of numbers
-### 9. Programming exercise: Average of positive numbers
+- [x] Programming exercise: Number of Numbers
+- [x] Programming exercise: Sum of Numbers
 
 ## More Loops
 
-### 1. Programming exercise: Counting
-### 2. Programming exercise: Counting to hundred
+- [x] Programming exercise: Counting
+- [x] Programming exercise: Counting to hundred
 ### 3. Programming exercise: From where to where? (2 parts)
 ### 4. Programming exercise: Sum of a sequence
 ### 5. Programming exercise: Sum of a sequence - the sequel
