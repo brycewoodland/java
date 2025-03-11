@@ -6,7 +6,7 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 ## Current Activity
 
-### Absolute Value
+### Programming exercise: Carry on?
 
 ### Useful Links
 - [Java Documentation](https://docs.oracle.com/en/java/)
@@ -24,8 +24,8 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 - [x] Programming exercise: Squared
 - [x] Programming exercise: Square root of sum
-### 3. Programming exercise: Absolute Value
-### 4. Programming exercise: Comparing Numbers
+- [x] Programming exercise: Absolute Value
+- [x] Programming exercise: Comparing Numbers
 
 ## Repeating Functionality
 
