@@ -186,7 +186,7 @@ Create a program that checks if a given string is a palindrome.
 - [x] Fibonacci Sequence Generator
 Implement a function to generate Fibonacci numbers up to a given number of terms.
 
-### 5. Prime Number Checker
+- [x] Prime Number Checker
 Build a program that checks if a given number is prime.
 
 ### 6. Temperature Converter
