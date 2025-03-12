@@ -47,7 +47,6 @@ public class Main {
             }
             num++;
         }
-
         return primeNumbers;
     }
 }
