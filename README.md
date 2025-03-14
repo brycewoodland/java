@@ -39,9 +39,9 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 - [x] Programming exercise: Counting
 - [x] Programming exercise: Counting to hundred
-### 3. Programming exercise: From where to where? (2 parts)
-### 4. Programming exercise: Sum of a sequence
-### 5. Programming exercise: Sum of a sequence - the sequel
+- [x] Programming exercise: From where to where? (2 parts)
+- [x] Programming exercise: Sum of a sequence
+- [x] Programming exercise: Sum of a sequence - the sequel
 ### 6. Programming exercise: Factorial
 ### 7. Programming exercise: Repeating, breaking and remembering (5 parts)
 
