@@ -42,20 +42,17 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [x] Programming exercise: From where to where? (2 parts)
 - [x] Programming exercise: Sum of a sequence
 - [x] Programming exercise: Sum of a sequence - the sequel
-### 6. Programming exercise: Factorial
+- [x] Programming exercise: Factorial
 ### 7. Programming exercise: Repeating, breaking and remembering (5 parts)
 
 ## Methods and Dividing the Program into Smaller Parts
 
-### 1. Programming exercise: In a hole in the ground
-### 2. Programming exercise: Reprint
-### 3. Programming exercise: From one to parameter
-### 4. Programming exercise: From parameter to one
-### 5. Programming exercise: Division
-### 6. Programming exercise: Divisible by three
-### 8. Programming exercise: Number uno
-### 9. Programming exercise: Word
-### 10. Programming exercise: Summation
+- [x] Programming exercise: In a hole in the ground
+- [x] Programming exercise: From one to parameter
+- [x] Programming exercise: From parameter to one
+- [x] Programming exercise: Division
+- [x] Programming exercise: Divisible by three
+- [x] Programming exercise: Summation
 ### 11. Programming exercise: Smallest
 ### 12. Programming exercise: Greatest
 ### 13. Programming exercise: Averaging
