@@ -6,7 +6,7 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 ## Current Activity
 
-### Programming exercise: From where to where? (2 parts)
+### Programming exercise: Sum of a list
 
 ### Useful Links
 - [Java Documentation](https://docs.oracle.com/en/java/)
