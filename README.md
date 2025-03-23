@@ -53,11 +53,11 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [x] Programming exercise: Division
 - [x] Programming exercise: Divisible by three
 - [x] Programming exercise: Summation
-### 11. Programming exercise: Smallest
-### 12. Programming exercise: Greatest
-### 13. Programming exercise: Averaging
-### 14. Programming exercise: Star sign (4 parts)
-### 15. Programming exercise: Advanced astrology (3 parts)
+- [x] Programming exercise: Smallest
+- [x] Programming exercise: Greatest
+- [x] Programming exercise: Averaging
+- [x] Programming exercise: Star sign (4 parts)
+- [x] Programming exercise: Advanced astrology (3 parts)
 
 ## Lists
 
