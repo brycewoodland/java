@@ -61,17 +61,17 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 ## Lists
 
-### 1. Programming exercise: Third element
-### 2. Programming exercise: Second plus third
+- [x] Programming exercise: Third element
+- [x] Programming exercise: Second plus third
 ### 3. Programming exercise: IndexOutOfBoundsException
-### 4. Programming exercise: List size
-### 5. Programming exercise: Last in list
-### 6. Programming exercise: First and last
-### 7. Programming exercise: Remember these numbers
-### 8. Programming exercise: Only these numbers
-### 9. Programming exercise: Greatest in list
-### 10. Programming exercise: Index of
-### 11. Programming exercise: Index of smallest
+- [x] Programming exercise: List size
+- [x] Programming exercise: Last in list
+- [x] Programming exercise: First and last
+- [x] Programming exercise: Remember these numbers
+- [x] Programming exercise: Only these numbers
+- [x] Programming exercise: Greatest in list
+- [x] Programming exercise: Index of
+- [x] Programming exercise: Index of smallest
 ### 12. Programming exercise: Sum of a list
 ### 13. Programming exercise: Average of a list
 ### 14. Programming exercise: On the list?
