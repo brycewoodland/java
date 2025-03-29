@@ -43,7 +43,6 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [x] Programming exercise: Sum of a sequence
 - [x] Programming exercise: Sum of a sequence - the sequel
 - [x] Programming exercise: Factorial
-### 7. Programming exercise: Repeating, breaking and remembering (5 parts)
 
 ## Methods and Dividing the Program into Smaller Parts
 
@@ -72,8 +71,8 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [x] Programming exercise: Greatest in list
 - [x] Programming exercise: Index of
 - [x] Programming exercise: Index of smallest
-### 12. Programming exercise: Sum of a list
-### 13. Programming exercise: Average of a list
+- [x] Programming exercise: Sum of a list
+- [x] Programming exercise: Average of a list
 ### 14. Programming exercise: On the list?
 ### 15. Programming exercise: Print in range
 ### 16. Programming exercise: Sum
