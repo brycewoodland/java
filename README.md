@@ -73,14 +73,14 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [x] Programming exercise: Index of smallest
 - [x] Programming exercise: Sum of a list
 - [x] Programming exercise: Average of a list
-### 14. Programming exercise: On the list?
+- [x] Programming exercise: On the list?
 ### 15. Programming exercise: Print in range
 ### 16. Programming exercise: Sum
 ### 17. Programming exercise: Remove last
 
 ## Arrays
 
-### 1. Programming exercise: Swap
+- [x] Programming exercise: Swap
 ### 2. Programming exercise: Index was not found
 ### 3. Programming exercise: Sum of array
 ### 4. Programming exercise: Print neatly
