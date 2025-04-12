@@ -19,6 +19,6 @@ public class Main {
             product *= start;
             start++;
         }
-        System.out.println(product);
-    }
+//        System.out.println(product);
+    }/
 }

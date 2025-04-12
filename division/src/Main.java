@@ -9,7 +9,7 @@ public class Main {
         division(3, 5);
     }
 
-    public static void division(int numerator, int denominator) {
+//    public static void division(int numerator, int denominator) {
         if (denominator == 0) {
             System.out.println("Cannot divide by 0.");
             return;
