@@ -24,7 +24,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
 
         while (true) {
-            System.out.print("Enter a string (or press enter to stop): ");
+            System.out.print("Enter a string (or press enter to stop): ");/
             String s = scan.nextLine(); // Gets the input from the user
             if (s.isEmpty()) { // If the response is empty it will break
                 break;

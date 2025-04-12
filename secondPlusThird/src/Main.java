@@ -30,7 +30,7 @@ public class Main {
                  break;
             }
             numberList.add(n);
-        }
+//        }
         return numberList;
     }
 

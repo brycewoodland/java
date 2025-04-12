@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("The First Method:");
         printUntilNumber(5);
-
+//
         System.out.println("The Second Method:");
         printFromNumberToOne(5);
     }

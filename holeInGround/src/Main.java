@@ -17,7 +17,7 @@ public class Main {
         int start = 1;
 
         while (start <= numberOfTimes) {
-            printText();
+            printText();/
             start++;
         }
     }

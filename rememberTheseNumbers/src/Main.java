@@ -23,7 +23,7 @@ public class Main {
     public static ArrayList<Integer> buildList(Scanner scan) {
         ArrayList<Integer> numList = new ArrayList<>();
 
-        while (true) {
+        while (true) {/
             System.out.print("Enter a number (-1 to quit): ");
             int n = scan.nextInt();
             if (n == -1) {

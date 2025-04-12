@@ -22,7 +22,7 @@ public class Main {
 
         while (firstNumber <= lastNumber) {
             sum += firstNumber;
-            firstNumber++;
+//            firstNumber++;
         }
         System.out.println(sum);
     }

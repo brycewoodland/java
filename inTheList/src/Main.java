@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         ArrayList<String> nameList = buildList(scan);
-        findName(nameList, scan);
+//        findName(nameList, scan);
         scan.close();
     }
 
