@@ -62,7 +62,6 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 - [x] Programming exercise: Third element
 - [x] Programming exercise: Second plus third
-### 3. Programming exercise: IndexOutOfBoundsException
 - [x] Programming exercise: List size
 - [x] Programming exercise: Last in list
 - [x] Programming exercise: First and last
