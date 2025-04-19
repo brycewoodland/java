@@ -77,9 +77,9 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 - [x] Programming exercise: Swap
 - [x] Programming exercise: Index was not found
-### 3. Programming exercise: Sum of array
-### 4. Programming exercise: Print neatly
-### 5. Programming exercise: Print in stars
+- [x] Programming exercise: Sum of array
+- [x] Programming exercise: Print neatly
+- [x] Programming exercise: Print in stars
 
 ## Using Strings
 
