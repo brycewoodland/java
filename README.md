@@ -74,9 +74,6 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 - [x] Programming exercise: Sum of a list
 - [x] Programming exercise: Average of a list
 - [x] Programming exercise: On the list?
-### 15. Programming exercise: Print in range
-### 16. Programming exercise: Sum
-### 17. Programming exercise: Remove last
 
 ## Arrays
 
