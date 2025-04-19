@@ -185,7 +185,7 @@ Implement a function to generate Fibonacci numbers up to a given number of terms
 - [x] Prime Number Checker
 Build a program that checks if a given number is prime.
 
-### 6. Temperature Converter
+- [x] Temperature Converter
 Develop a program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
 ### 7. File Reader and Writer
@@ -217,6 +217,7 @@ Create a program that uses simple encryption algorithms, like Caesar Cipher or X
 
 ### 15. Basic Java Design Patterns
 Implement some well-known design patterns (Factory, Singleton, Observer, etc.) in Java.
+- [x] Factory with the Temperature Converter Program.
 
 ### 16. Building a Simple Chat Application
 Implement a basic chat application using Java Sockets for client-server communication.
