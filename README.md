@@ -6,7 +6,6 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 
 ## Current Activity
 
-### Programming exercise: Sum of a list
 
 ### Useful Links
 - [Java Documentation](https://docs.oracle.com/en/java/)
@@ -77,7 +76,7 @@ Starting in 2025, I’ve set a personal goal to get better with Java, building b
 ## Arrays
 
 - [x] Programming exercise: Swap
-### 2. Programming exercise: Index was not found
+- [x] Programming exercise: Index was not found
 ### 3. Programming exercise: Sum of array
 ### 4. Programming exercise: Print neatly
 ### 5. Programming exercise: Print in stars
